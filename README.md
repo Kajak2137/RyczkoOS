@@ -1,3 +1,3 @@
-# Źrodło systemu RyczkoOS, OS z najlepszym SoT na rynku
+# Kod systemu RyczkoOS, OS z najlepszym SoT na rynku
 
-xD
+"Panie zrób tak żeby nic nie działało" ~ Użytkownicy RyczkoOS
